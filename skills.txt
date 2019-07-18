@@ -1,0 +1,350 @@
+You will be researching, developing and implementing deep learning frameworks (Keras, TensorFlow, PyTorch, MxNet etc) 
+Python OR C++ AND (Caffe, Tensorflow, PyTorch etc)
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Dockers, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: Tableau, High charts, D3, gg plot, etc.
+Highly proficient in languages and tools used in ML modeling like R, Python (SciKit Learn, SciPy, Numpy, etc.), 
+Apache Spark (Scala or Python), H2O, Weka, TensorFlow, Torch, Keras.
+Highly proficient in languages and tools used in ML modeling like R, Python (SciKit Learn, SciPy, Numpy, etc.), 
+Apache Spark (Scala or Python), H2O, Weka, TensorFlow, Torch, Keras.
+Preferred hands-on experience in coding in C, C++, Java, Scala or any other.
+Preferred experience in Big Data tools like Hadoop, Pig, Hive, MapReduce or any other.
+Prior experience with Big Data platforms/tools (Hadoop, MongoDB, Cassandra, etc.) 
+Working proficiency in at least one data mining tool (SAS, SPSS, R, RapidMiner, etc.)
+Prior experience with Big
+3+ years design/implementation/consulting experience training Machine Learning models and deploying scoring pipelines at scale.
+3+ years professional experience in software development in languages like Java, Python, Scala. 
+Have worked and deployed on technologies such as AWS, Azure, Google Cloud, Hadoop, RDBMS, MongoDB, NoSQL and/or Hive
+Have experience with ETL, NLP, AI, ML and/or DP will be advantageous
+Experience with MapReduce/Hadoop and related technologies (e.g., Pig, Hive, Cascading).
+Familiarity with Amazon Web Services and Elastic MapReduce a plus.
+Familiarity with Hadoop based commercial packages (e.g. Cloudera, Hortonworks
+Experience in text mining/NLP
+Experience with Python or C++ programming language.
+Experience working with RESTful API and general service oriented architectures.
+Experience managing teams of Data Scientists, Machine Learning Engineers, Software Engineers and/or Consultants 
+An exceptional Data Modelling background with experience across one or more of the following tools R, Python, SPSS, Matlab
+Build products alongside the Core engineering team and evolve the engineering process to scale with data, handling complex problems and advanced client situations
+Be able to focus on modelling by working alongside the Data Engineering team which focuses on the wrangling, clean-up and transformation of data.
+Deep understanding on feature selection and modelling. Familiar with the theories behind common models (logistic regression, random forest, boosting trees, neural network etc.), and experienced in fine-tuning.
+Familiar with Apache Spark.
+Experience using Robotics Frameworks, RPA software products like Blue Prism, UiPath, Automation Anywhere, Kofax, etc
+Professional knowledge of Machine Learning environments, such as Regression or Decision Trees or Random Forest or Deep Learning
+Experience designing and deploying with one or more the technologies like Tensor Flow, Spark ML, CNTK, Torch, Caffe
+Knowledge of Big Data technologies, such as Spark, Hadoop, Cornerstone is highly desirable
+Good knowledge of databases like SQL, PostgreSQL, Mongo, Redis, Cassandra
+Exposure to Node & Scala, is desirable.Proficient in Python and related data processing libraries such as pandas and numpy.
+Solid coding skills in Python, R, Java, MySQL/NoSQL
+Familiar with deep learning topologies
+Experience with cloud platforms such as GCP
+Data pipeline skills: Spark, Celery, Jinja
+Professional experience with cloud native architectures and design, specifically AWS services such as S3, Lambda, EC2, RDS (Postgres), API Gateway, ECR and Fargate
+Experience building continuous integration pipelines for containerized machine learning models
+Experience in geospatial/geolocation analysis and neural networks
+Comfortable with devops and infrastructure technologies such as Terraform, CircleCI, Docker and the Serverless Framework
+Develop scalable tools leveraging machine learning and deep learning models to solve real-world problems in areas such as Speech Recognition, Natural Language Processing and Time Series predictions.
+Collaborate with all of JPMorgan Chase's lines of businesses, such as Investment Bank, Commercial Bank, and Asset Management.Lead your own project. 
+Suggest, collect and synthesize requirements. 
+Create an effective roadmap towards the deployment of a production-level machine learning application.
+MS or PhD in a quantitative discipline, e.g. Computer Science, Mathematics, Operations Research, Data Science, or similar BS with 2+ years of experience in a highly quantitative position.
+Experience in Deep Learning: DNN, CNN, RNN/LSTM, GAN or other auto encoder (AE).
+2+ years of hands-on experience developing machine learning models.
+Ability to develop and debug in Python, Java, C or C++. 
+Proficient in git version control. R and Matlab are also relevant.
+Extensive experience with machine learning APIs and computational packages (TensorFlow, Theano, PyTorch, Keras, Scikit-Learn, NumPy, SciPy, Pandas, statsmodels).
+Familiarity with generation of heatmaps and biplots a plus
+Best practices in software development and productionise machine learning by working with our Machine Learning Engineering teams which optimise code for model development and scale it
+Work with our UX and Visual Design teams to interpret your complex models into stunning and user-focused visualisations
+A strong understanding of Data Engineering and Ingestion with experience across a range of Datastores that could include Hadoop, Spark, Teradata, AWS Redshift, MPP, Greenplum, Oracle, MongoDB, SQL, Cassandra
+Strong Data Visualisation skills across Qlikview and/or Tableau
+Masters or PHD in an analytical or technical field - Mathematics, Statistics, Computer Science, Physics or Engineering
+Minimum 3 years working experience manipulating data sets and building statistical models, has a Master’s in Statistics, Mathematics, Computer Science or another quantitative field, and is familiar with the software/tools
+Experience with Machine and Deep Learning toolkits such as MXNet, TensorFlow, Caffe and Torch.
+Experience with Big Data platforms like Apache Spark and Hadoop.
+Experienced in data processing with Python, R & SQL.
+Experience with AWS services related to AI/ML highly desirable, particularly Amazon EMR, AWS Lambda, SageMaker, Machine Learning, IoT, Amazon DynamoDB, Amazon S3, Amazon EC2 Container Service, Green Grass etc.
+Experience with SAS, SPSS, Python, R, Hadoop or SQL an advantage
+Experience with databases in general (more so the newer NoSQL DBs) and visualization tools (such as QlikView, Tableau etc ).
+Preferred experience with a wide variety of predictive modeling, machine learning, data mining, statistical, text mining, and optimization algorithms (including tools such as R)
+Proficiency using R / Python for predictive modelling, pattern recognition, and algorithm prototyping.
+Java and/or Scala programming is a plus
+Extracting and transforming data from systems like Hadoop and SQL, using tools such as Pig, Scalding, Hive, Presto
+Some experience with one or more object oriented languages like Java, Scala, C++
+Some experience with scripting languages like Python or Ruby etc.
+Some experience with statistical programming environments like R or Matlab
+Experience with large datasets and Map Reduce architectures like Hadoop and open source data mining and machine learning projects
+Experience using SQL analyzing datasets with databases such as Presto, Teradata, Oracle, and MySQL
+Experience using R, Python, Stata, or other scripting languages for data prep, analysis, and machine learning
+Experience with applied social science research or familiarity with publicly-available government data sets such as those provided by Eurostat, the Office for National Statistics (UK), INSEE (France) the World Bank, the UN, the BLS and Census Bureau (US) and other national and international statistical agencies
+Familiarity with data visualization and/or BI tools (Ex. Tableau, PowerBI)
+Experience with Hadoop (Hive, Pig, or MapReduce)
+Deep knowledge of some of the popular ML frameworks such as SparkML, Tensorflow, scikit-learn, XGBoost, H2o etc. 
+Ability to translate business problems into analytical structures and can be solved using statistical/ML techniques
+Expert proficiency in a structured programming language is a must – experience in at least one statistical/general purpose scripting languages like R or Python is mandatory
+At least 4 years of relevant experience, which should include hands-on programming in one(or more) of the languages specified above
+Understanding of concepts to analyze text, image, video etc. is a plus (not mandatory)
+Experience with technologies such as Spark ML, TensorFlow, Open CV, Caffe etc. is a plus(not mandatory)
+Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms
+Fluency in a programming language (Python, R, Java, SQL,Hadoop,ML,DL,NLP)
+Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop,Pig,Hive, Spark, Tableau)
+Experience in building large scale distributed ML Models Experience in building modern Machine Learning platforms a big plus.
+Experience with Human Computer Interaction applications over voice, bots, (RPA), AR/VR is a plus 
+Experience in building robust data pipelines and familiarity with ETL/Data Wrangling tools Experience working in a cloud environment (AWS, Azure, GCP) or a containerized environment (Mesos, Kubernetes)
+Good understanding of reinforcement learning, graphical models, HMM and/or deep learning methods
+Experience with large data sets and distributed computing
+Experience with Spark or Map Reduce, SQL and noSQL databases
+Exposure to AWS/Azure is a plus
+Knowledge of statistics and experience using statistical packages for analyzing datasets (SAS, R, Python)
+Prior experience in BFSI domain and exposure to Big data, Hadoop, Scala, Pig, Hue, Hive etc. will be an added advantage, but not a requirement
+Exposure to modern Big Data tech: Cassandra/Scylla, Kafka, Ceph, the Hadoop Stack, Spark, Flume, Hive, Druid etc… while at the same time understanding that certain problems may require completely novel solutions
+Exposure to one or more modern ML tech stacks: Spark ML-Lib, Tensorflow, Keras, GCP ML Stack, AWS Sagemaker
+Deep technical understanding of Golang and/or Java
+Experience and proficiency with various programming languages (e.g., Python), machine learning tools (e.g., scikit-learn), 
+statistical packages (e.g., Scipy), SQL/relational databases (e.g., Oracle) and NoSQL databass (e.g., MongoDB, graph database), Linux and shell scripting
+Advanced knowledge of machine learning, probability theory, statistics and algorithms.
+Lead data science and machine learning efforts in products and solutions involving IoT, Big Data, Cloud and microservices
+Experience in Spark MLLib, PySpark, NumPy/SciPy, TidyData
+Strong understanding of Statistics.
+Experience working with or for Financial Institution in area like Fraud detection / Risk modelling / UW modelling etc. is highly desired
+Knowledge of Pythons data analysis and machine learning libraries a strong plus; Have experience/knowledge in SparkML and PySpark
+NLP & Text Mining Experience is a big plus.
+Knowledge of Big Data architectures a strong plus; Have basic knowledge in big data (storage and processing) tools like Hadoop, Hive, Spark and etc.
+Deliver on projects which require running a variety of statistical models for Marketing Mix, Pricing analytics , assortment and various such projects for Manufacturers and retailers
+Leverage Machine Learning techniques in analytics solutions to improve the predictive capability of models
+Execute approaches to analyze variety of datasets around sales and customer level purchase information, primarily running Regression, Cluster analysis, text based mining, etc. types of analysis
+Advanced knowledge of statistical packages such as R or RStudio, Python, PySpark. Strong problem solving skills
+Advanced knowledge of statistical packages such as R or RStudio, Python, PySpark. Strong problem solving skills
+Perform machine learning, text analytics, and statistical analysis methods, such as classification, collaborative filtering, association rules, 
+sentiment analysis, topic modeling, time-series analysis, regression, statistical inference, and validation methods.
+Expertise in Data Mining, Data wrangling, and data munging using one or more of the most commonly used data science tools: R, Python, SAS, SPSS, Weka
+Knowledge and experience in Hadoop (Map Reduce paradigm) etc.
+Must be hands-on and must have worked on implementing machine learning and data mining algorithms.
+Additional Skills (optional) Scala, Spark, H2O,Mahout, Hive
+Product Knowledge: At least 3 of the following: o R, Python (Scikit-learn, numpy, etc), Weka,SAS, SPSS, MATLAB/Octave, Hadoop (Map Reduce programming).
+Knowledge in Search Engine: such as Elastic, Apache Lucene/Solr
+Knowledge of saga and thunk for handling asynchronous API calls • Good hands-on experience in Nodejs.
+Creating restful services 
+Processing and optimization of the large volume of data connecting to different data sources like Teradata, MongoDB, Cassandra, SQL 
+Hands-on experience with use of standard natural language processing libraries and machine learning libraries such as Tensorflow, Keras, NLTK, OpenNLP, Spacy, Sk-Learn, ML-Lib
+Experience in developing models using deep learning techniques and tools, such as TensorFlow, Keras, etc.
+Knowledge and experience with OpenCV, MKL, ITK, VTK, GPGPU, specifically CUDA.
+Excellent understanding of software engineering principles and design patterns.
+Excellent programming skills in either Python, Scala, or Java.
+In-depth understanding of data science and machine learning technologies and methodologies.
+Good working knowledge of high performance computing, parallel data processing, and big data stack, e.g. Spark and Hadoop/Yarn.
+Experience to one or more commercial / open source data warehouses or data analytics systems, e.g. Teradata, is a big plus.
+Experience to one or more NoSQL databases is a big plus.
+Hands-on experience in Cloud platforms, e.g. AWS, or containerization/ virtualization platforms, e.g. Docker/Kubernetes, is a big plus.
+Experience to any data science or machine learning platform, e.g. IBM Data Science Experience or Cloudera Data Science Workbench, is a big plus.
+You are highly proficient in Python, C/C , and SQL
+Solid technical knowledge in machine learning, deep learning, statistical algorithms, data mining, and data structures
+Working experience: Image and Video analytics, Deep Learning, Tensorflow
+Hands-on knowledge in model development and deployment, visualization, and dashboard creation
+Experiences in processing and analyzing both structured and unstructured data
+Solid knowledge of big data processing framework and tools, such as Spark, Hadoop, MapReduce, etc.
+Proficiency in one or more programming languages including but not limited to: Python, Java, Scala, R
+Experience with SAS, SPSS, Python, R, Hadoop or SQL an advantage
+Experience in data mining, data analysis, model building, statistical modeling, predictive analytics and machine learning algorithms
+Experience building predictive models and implementation
+Experience with databases in general (more so the newer NoSQL DBs) and visualization tools (such as QlikView, Tableau etc ).
+Preferred experience with a wide variety of predictive modeling, machine learning, data mining, statistical, text mining, and optimization algorithms (including tools such as R)
+Good to have knowledge of Business Intelligence Tools such as KNIME, Tableau, Spotfire
+Good to have knowledge of Artificial Intelligence / Big Data Ecosystem such as Hadoop, Spark, TensorFlow, Hive
+Good to have knowledge of Scientific Computing such as C , Java, Scala
+Good to have knowledge of advanced analytical models such as Bayesian, Optimization (global, local, stochastic methods), Uncertainty Quantification, etc
+Fluency in C and Python
+Understanding of CNN basics
+Experience training CNN models on Caffe and Tensorflow
+Familiarity with state-of-the-art deep learning approaches
+Good knowledge in Computer Vision/OpenCV
+Demonstrated expertise in building deep learning models such as CNN, RNN, LSTM and GANs.
+Working knowledge of waveform/timeseries
+Strong implementation experience with a variety of high-level languages and frameworks such as Python, TensorFlow, Keras, Caffe, CNTK, etc.
+Min 8 years proven experience in modern machine learning, including deep learning
+Experience using machine learning toolboxes (e.g. Caffe, TensorFlow, or PyTorch).
+Experience in deep networks (CNN, DBN, RNN, LSTM, DCN) or reinforcement learning (RL).
+Proficient in Python and OOP development as well as in designing and implementing ML / deep learning network.
+Experience with classification and regression algorithms (e.g. SVM, MLP).
+Classification (logistic regression, svm, decision tree, random forest, neural network)
+Regression (linear regression, decision tree, random forest, neural network)
+Classical optimisation (gradient descent, newton rapshon, etc)
+Graph theory (network analytics)
+Heuristic optimisation (genetic algorithm, swarm theory)
+Deep leaning (lstm, convolutional nn, recurrent nn)
+Deep knowledge of fundamentals of AI, Machine / Deep Learning, Data Mining and Predictive Modelling is required with solid experience in applying these techniques on real world problems
+Interdisciplinary skills in Big Data Technologies, ETL, statistics and causal inference is desirable.
+Strong skills in software engineering practices (Design, Development and Requirement Management) with expertise in applicable programming languages and frameworks such as scikit-learn, XGBoost, Pytorch, Tensorflow, Spacy, H2O.
+Solid understanding of at least on the topics like deep learning, machine visions, NLP, knowledge graphs etc.
+Programming skills: python (must), MATLAB, R
+Understanding of cloud environment (AWS or Azure), containerization
+Ability to write production-quality object-oriented code in at least one of the following programming languages: Python, Java, C , Scala or C#;
+An open mind; desire to learn the best language/technology to solve a given problem;
+Deep understanding of machine learning theory and practice (feature engineering, regularization, hyperparameter tuning, ensemble methods, CNNs and RNNs);
+Expertise in data analysis (experiment design, classification, regression, unsupervised methods);
+Knowledge of core computer science concepts such as: data structures and algorithms, code profiling/optimization.
+Detailed knowledge of at least one popular Deep Learning library, proven ability to implement in practice any neural network configuration described in literature.
+Proficiency with regular expressions and other deterministic methods for processing text as well as experience in practical NLP is a plus;
+Deep understanding of cutting edge machine learning principles and techniques (CNN, learning rates, fast.ai, DL based NLP)
+Expertise with Python and machine learning libraries (Numpy, Tensorflow)
+Effective analytical presentation skills using living Jupyter notebooks and static presentation formats
+Deep knowledge of math, probability, statistics and algorithms.
+Outstanding analytical and problem-solving skills.
+In depth knowledge of Python, R, Java.
+Good understanding of tools such as Tensorflow, Matlab, Big Data Machine learning libraries like Apache Spark, Apache Flink, Azure Machine learning.
+Strong background in data structures and algorithms.
+Knowledge of SQL is a critical requirement.
+Working knowledge of Python or R (preferably Python)
+Data Science and Machine how to implement all them in Python or R. Ability to demonstrate this. The person should have worked on some projects in each of the areas related to Data Science and Machine Learning. If the person is able to share any Git repositories it would be good.
+Visualization exposure with knowledge of creating visualization using Python, D3.js, Power BI or Tableau (any one or two). More focus would be given to which visualizations to be used in different contexts and more importantly how to interpret them
+The candidate should have excellent knowledge on how to clean data (wrangling), transform and engineer data and interpret data relationships before even venturing into Machine Learning. A demonstrated ability to do this using any of the huge range of tools (both code based like Python) or non-code based.
+If the candidate has worked on any GUI based ML building tools like Azure ML Studio, AWS Sagemaker or Google Cloud Machine Learning Engine with projects the candidate will be able to publish : then it will be good.
+Should have developed solutions on Classification, Regression and Clustering based algorithms
+High proficiency in utilizing complex SQL queries for data analysis (SQLServer, DB2, Netezza, Hadoop/Hive) is required.
+Knowledge of big data tools/techniques (Hadoop, Hive,Map/Reduce, NoSQL) is required
+Demonstrated willingness to perform data analysis, data wrangling and ability to abstract rules for data store and processing. Experience with large data sets is required.
+Strong experience with analytical modeling techniques including Association, Classification, Clustering, Regression, Time Series Analysis, Text Analysis, Statistical analysis
+Experience with Data Visualization techniques is required
+Experience with image processing, text analytics is required. 
+Ability to write production-quality object-oriented code in at least one of the following programming languages: Python, Java, C++, Scala or C#;
+An open mind; desire to learn the best language/technology to solve a given problem;
+Deep understanding of machine learning theory and practice (feature engineering, regularization, hyperparameter tuning, ensemble methods, CNNs and RNNs);
+Expertise in data analysis (experiment design, classification, regression, unsupervised methods);
+Knowledge of core computer science concepts such as: data structures and algorithms, code profiling/optimization.
+Detailed knowledge of at least one popular Deep Learning library, proven ability to implement in practice any neural network configuration described in literature.
+Proficiency with regular expressions and other deterministic methods for processing text as well as experience in practical NLP is a plus;
+Ease with Linux;
+Overall 6 years of experience with min 2 years of experience in Data Science, developing applications using Python, R, PySpark or Scala.
+Experience in various statistical and machine learning models, data mining, unstructured data, predictive and prescriptive analytics approaches. Experience in Text Mining/ NLP is a must
+Exceptional coding skills in Python, R, PySpark or Scala.
+Experience with Spark MLlib, deep-learning libraries, TensorFlow etc would be plus.
+Experience using Hadoop components such as Hive, Sqoop, Hbase, etc is a must.
+Understanding Python integration with django, flask and REST API.
+Familiarity with data visualization libraries in Python, R or tools such as Tableau, PowerBI.
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Experience with Natural language processing is highly preferred.
+Expert-level knowledge in learning algorithms such as inverse reinforcement learning, deep reinforcement learning and probabilistic inference for decision support systems 
+Knowledge and hands-on expertise in deep neural network topologies such as convolutional nets, recurrent nets, RBMs, causal reasoning, probabilistic programming 
+Mathematically minded with experience in manipulating high-volume, high-dimensionality data from varying sources to highlight patterns, anomalies, relationships and trends with machine learning techniques 
+2+ years of experience with Machine Learning, Statistical Models, and Natural Language Processing 
+Experience with Python, TensorFlow, Keras, StackStorm
+Solid understanding of Data Structures, Algorithms & Object-Oriented design concepts 
+Deep understanding of statistical modelling, machine learning, or data mining, text mining concepts and a track record of solving problems with these methods.
+Proficient in tools such as R/SAS/SPSS/Phyton.
+Excellent communication, relationship skills and a strong team player.
+Experience in big data techniques (such as Hadoop, MapReduce, Hive, Pig, and Spark), deep learning, and any BI/Visualisation tool (such as OBIEE, Tableau, and D3.js) is a plus.
+Knowledge of a variety of quantitative modeling techniques, e.g., logistic regression, decision trees, SVMs, neural networks, graph theory
+Solid visualization skills
+Previous experience working with time series, trajectories and GIS datasets
+Competence in writing code in statistical programming languages or frameworks (e.g., R, Weka, etc.)
+Proven Data science experience in Retail Space – Strongly preferred
+Working experience with Assortment Optimization in retail/e-commerce
+Experience with discrete choice modelling: 
+Multinomial Logit Model, Nested / Mixed Logit Model, Exogenous Demand Model
+Experience with modelling substitution and cannibalization effects
+Experience with optimization algorithms
+Experience with Python.
+Experience with relational databases such as NoSQL or MongoDB.
+Minimum 4 years’ experience with large amounts of real data.
+Minimum 2 years’ experience leading project teams on relevant engagements.
+Experience in Hadoop, Spark, Storm or related paradigms and associated languages such as Pig, Hive, Mahout, plus advanced skills in Java/C++, R, etc.
+Ability to communicate complex quantitative analysis in a concise and actionable manner.
+Proficient in manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources.
+Extensive knowledge of tools for data mining and statistics (SAS, SPSS, MATLAB).
+Ability to work independently and manage multiple task assignments.
+Strong oral and written communication skills, including presentation skill.
+Strong competency in various machine learning techniques (supervised learning, unsupervised learning, reinforcement learning).
+Strong knowledge of other quantitative disciplines (operations research, decision theory, etc.). Knowledge of machine to machine learning techniques.
+Solid understanding of advanced analytics (statistics, simulation, optimizations, etc.).
+Proven background in at least one of the following - Reliability models, Markov Models, Stochastic models, Bayesian Modeling, Classification Models, Cluster Analysis, Neural Network, Non-parametric Methods, Multivariate Statistics
+Experience working with large data sets and tools like MapReduce, Hadoop, Hive, etc.
+Experience working with large data streaming technologies like Spark, Flink, etc.
+Extract data from Bigquery and build models to identify key factors impacting retention, monetization and engagement metrics.
+Identifying the appropriate univariate and multivariate analysis to identify key customer trends and insights - Segmentation, Logistic regression, Decision Trees, Factor analysis, etc.
+Experience in analytical methods (like Classification, decision trees, ANOVA, feature engineering, regression, forecasting, Machine Learning Techniques, etc.)
+Very good coding skills in any of these languages: R, Python, Matlab, Java, C and Machine Learning libraries like scipy, numpy, pyspark, tensorflow etc
+Basic knowledge of Big Data stack: Spark, Cassandra, Map-Reduce, S3
+2+ years of experience with Python or R and some knowledge of SQL. 
+Experience with other software environments e.g. SAS, Matlab, Spotfire, Tableau, Qlikview, SPSS, KNIME and/or other data mining software is a plus. 
+Mixed Integer Linear Programming, Conic Integer Optimization, Greedy and Interchange heuristics
+Python, scrapy, selenium, requests, beautifulsoup, mechanize, lxml, urllib2, web scraping, web crawling, automation, bots, scrapers, spiders
+Solid engineering and coding skills. And the ability to write high performance production code. Experience in Go, Python Scala and other equivalent language is a plus.
+Experience with MapReduce, Spark and Hive is a plus.
+Build and deploy scalable machine learning models to enable our fraud, risk and safety systems.
+Analyze data and define metrics for feature evaluation and model performance.
+Design and implement robust data pipelines.
+Proficient in RDBMS such as PostgresQL or MySQL; and statistical programming in languages like R, Python, Java, C++ or SAS
+Experience in ETL, feature selections, modeling, model validation and conducting data analyses using R, SQL, Python or any JVM languages
+Strong understanding and implementation experience of predictive modeling algorithms such as logistic regression, neural networks, forward propagation, decision trees and heuristic models, with familiarity dealing with trade offs between model performance and business needs
+Good understanding of the fraud space with hands-on knowledge of fraud, payments and risk, especially on tech products
+Experience in geospatial databases or graph databases
+Recent programming experience in a production environment
+Experience in Scala or PySpark on distributed systems
+Interest in working with MapReduce technologies (such as Hadoop / Spark)
+Familiarity with Python Scikit Learn, Panda or Spark ML/Mllib is a plus
+Knowledge of Statistical methods, Probabilities and Distribution, Sampling Distribution central limit theorem, confidence intervals, hypothesis testing, variances, Linear Regression, ANOVA, Exploratory data Analysis…
+Machine Learning model implementation experience on one or more of – Classification models (e.g. Support Vector Machines, Discriminant Analysis, Bayes network, Nearest neighbor…), Regression models (e.g. Linear regression, GLM, SVR, GPR, Ensemble methods, Decision trees, Neural Networks..), Clustering models (e.g. K-means, Fuzzy C-Means, Hierarchical, Gaussian, Hidden Markov Model..)
+Knowledge or working experience of Artificial Intelligence system on one or more of  Case-based reasoning systems, rule-based systems, artificial neural networks, cellular automata, fuzzy models, genetic algorithms, multi-agent systems, reinforced learning, hybrid systems..
+Working knowledge of Data engineering - Big Data, Hadoop, Cassandra, Spark R, RDBMS DB SQL, N-SQL DB, Big-Query, Documents stores etc. Hands-on experience preferred
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+Experience with common data science toolkits, such as R, NumPy, OpenCV, MatLab, etc
+Great communication skills
+Experience with data visualisation tools, such as D3.js, GGplot, etc.
+Experience with NoSQL databases, such as MongoDB, Cassandra, HBase {{depending on project needs}}
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+SPSS, SAS, Matlab, KNIME etc.
+R, Python etc.
+Hadoop, Hortonworks, Cloudera, IBM Big Insights etc.
+Mapreduce, Spark, Mahout etc.
+SQL/noSQL Databases and its manipulation components
+Additionally, the following will be considered a strong asset:
+Software development experiences in Java and/or C/C++ as well as advanced databases.
+Iulia Z
+- Core technique on audio processing
+Significant achievement on offline NLP engines with the help of deep learning.
+Application areas include automatic speech recognition, speech synthesis, sound classification, adaptive noise cancellation, neural voice cloning, chat bot, NMT.
+- Image processing with various DNN models such as YOLO, Fast R-CNN, Mask R-CNN, Google Inception V3, Resnet, Alexnet, Vgg16... as well as traditional algorithms and OpenCV
+Developed amazing offline engines in ALPR, OCR, Face detection & recognition, Facial expression change, Object detection, tracking, counting.
+Boris Banushev
+1. Selected experience:
+- Developed and backtested AI and ML quantitative trading algos using deep learning (RNN, DCGAN, VAE);
+- Creating optimal stock portfolio allocation using Reinforcement learning;
+- Retail banking merchant/client expansion strategy using network science theory (+ ERGMs and NetworkX), recommender systems, and GraphDB (Azure Cosmos and native Gremlin queries);
+- Real time fraud detection using generative models and deep unsupervised learning (SOM, RBM).
+- Built end-to-end AI/ML CICD platform;
+- Led Investor negotiations and fundraising;
+- Run boutique stock market broker and ultimately sold it for 450x ROI;
+- Participated in IPO, M&A, and corporate valuation and due diligence;
+2. Tech skills:
+- Deep Reinforcement Learning;
+- RNN (LSTM, GRU, built own cell);
+- CNN, transfer learning, (VAE)GAN, DCGAN;
+- XGBoost, PCA, tSNE, LDA, sklearn;
+- Unsupervised (RBM, SOM, SVM);
+- AWS SageMaker + BYOModel;
+- Modifications on keras, pytorch, tf;
+- python (pandas, numpy, scipy);
+- Hyper-parameter optimisation using Reinforcement Learning;
+- AI/ML model training and deployment CI/CD (AWS, Azure);
+- Complete understanding of the whole math behind all ML;
+- Graph DB, NoSQL;
+- Serverless architecture - AWS Lambda, Azure Functions;
+- The whole AWS and Azure ecosystems;
+- Hadoop, HIVE, pySpark, Docker, Kubernetes;
+Natural language processing (NLP): This includes topic modelling, word embeddings, document embeddings, sentiment analysis, 
+LSTM, RNN, GRU, word2vec, doc2vec, GloVe, fastText, BERT, ELMO, attention models, transformers etc.
+Excellent knowledge of C/C++
+Experience with Linux and multithreading.
+Good knowledge and experience in Computer Vision(Object  detection, Segmentation)  and  Machine  Learning, an advantage
+ARM experience an advantage
+GPU Programming  using  Cuda  or  OpenCL, an advantage
+SIMD (AVX/NEON) an advantage
+NLP:
+Demonstrated experience in application of NLP algorithms for matching & retrieval, clustering, generating ontologies, 
+machine translation, concept extraction, entity extraction
+Experience in Big data technologies such as Spark, Cassandra, HDFS, Kafka, Druid, Elastic Stack, Hive, HBase etc. in a complex Big Data product/project
+1)     Deep Learning (CNNs/RNNs, Reinforcement Learning, VAEs/GANs)
+2)     Machine Learning (Regression, Random Forests, SVMs, K-means, ensemble methods)
+3)     Natural Language Processing
+4)     Graph Databases (Neo4j, Apache Giraph)
+5)     Azure Bot Service
+6)     Azure ML Studio / Azure Cognitive Services
+7)     Log Analytics with NLP/ML/DL
